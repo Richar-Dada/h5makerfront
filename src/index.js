@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './assest/iconfont/iconfont.css'
 import BasicRouter from './router';
 import * as serviceWorker from './serviceWorker';
 
