@@ -1,9 +1,9 @@
 import React from 'react'
-import './index.css'
+import styles from './index.css'
 
 export default () => {
     return (
-        <div className="container">
+        <div className={styles.container}>
             aaa
         </div>
     )
