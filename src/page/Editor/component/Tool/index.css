@@ -67,3 +67,18 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.picGird {
+
+}
+
+.picElement {
+    width: 110px;
+    list-style: none;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.picElement img {
+    width: 100%;
+}
